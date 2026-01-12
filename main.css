@@ -1,0 +1,1048 @@
+.container{
+    border: 2px solid black;
+    height: 700px;
+    width: 1540px;
+    margin-top: -5px;
+    margin-left: -10px;
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+.topborder{
+    border: 2px solid white;
+    height: 60px;
+    width: 1540px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    padding-top: 16px;
+}
+.acelogo{
+    height: 60px;
+    width: 60px;
+    background-image: url('acesoftlog-removebg.png');
+    background-size: cover;
+    margin-top: -10px;
+    margin-left: 50px;
+}
+.Home{
+    height: 30px;
+    width: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 185px;
+    font-size: 20px;
+    margin-top: -38px;
+}
+.iosapp{
+    height: 30px;
+    width: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 300px;
+    font-size: 20px;
+    margin-top: -30px;
+    color: white;
+}
+.Android{
+    height: 30px;
+    width: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 550px;
+    font-size: 20px;
+    margin-top: -30px;
+}
+.Contact{
+    height: 30px;
+    width: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 830px;
+    padding-top: 2px;
+    font-size: 20px;
+    margin-top: -30px;
+}
+.canada{
+     height: 30px;
+    width: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1000px;
+    padding-top: 2px;
+    font-size: 20px;
+    margin-top: -38px;
+    background-image: url('canadalogo.avif');
+    background-size: cover;
+}
+.cnumber{
+     height: 30px;
+    width: 140px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1080px;
+    padding-top: 7px;
+    font-size: 18px;
+    margin-top: -30px;
+}
+.uae{
+     height: 30px;
+    width: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1260px;
+    padding-top: 2px;
+    font-size: 20px;
+    margin-top: -38px;
+    background-image: url('uaelogo..png');
+    background-size: cover;
+}
+.text {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeUp 1s ease-out forwards;
+  animation-delay: 0.5s;
+}
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.unumber{
+     height: 30px;
+    width: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1333px;
+    padding-top: 2px;
+    font-size: 20px;
+    margin-top: -30px;
+}
+.secondsection{
+    height: 600px;
+    width: 1540px;
+    display: flex;
+}
+.text{
+    padding-top: 100px;
+    padding-left: 80px;
+    height: 500px;
+    width: 1000px;
+    color: white;
+    font-size: 100px;
+}
+.img{
+    margin-top: 50px;
+    height: 500px;
+    width: 800px;
+    margin-left: -410px;
+    background-image: url('software-developmentimg-rem.png');
+    background-size: cover;
+}
+.iosbox{
+     border: 2px solid black;
+    height: 700px;
+    width: 1540px;
+    margin-top: -5px;
+    margin-left: -10px;
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+
+/* HOME */
+
+
+
+/* ABOUT */
+.ioshead{
+    height: 100px;
+    width: 300px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    padding-top: 16px;
+    margin-left: 570px;
+    padding-bottom: -50px;
+    font-size: 30px;
+
+}
+.iosabout{
+    height: 500px;
+    width: 700px;
+    color: white;
+    font-size: 40px;
+    margin-top: 30px;
+    margin-left: -30px;
+}
+.storie{
+    
+}
+.tickbox1{
+    
+    height: 20px;
+    width: 20px;
+    margin-left: 50px;
+    margin-top: -20px;
+    background-image: url('tick-remo.png');
+    background-size: cover;
+}
+.tickbox2{
+   
+    height: 20px;
+    width: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+     background-image: url('tick-remo.png');
+    background-size: cover;
+}
+.tickbox3{
+  
+    height: 20px;
+    width: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+     background-image: url('tick-remo.png');
+    background-size: cover;
+}
+.tickbox4{
+    
+    height: 20px;
+    width: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+     background-image: url('tick-remo.png');
+    background-size: cover;
+}
+.tickbox5{
+  
+    height: 20px;
+    width: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+     background-image: url('tick-remo.png');
+    background-size: cover;
+}
+.box1{
+   
+    height: 20px;
+    width: 500px;
+    margin-left: 100px;
+    margin-top: -40px; 
+    
+}
+.box2{
+   
+    height: 20px;
+    width: 570px;
+    margin-left: 100px;
+    margin-top: -40px; 
+}
+.box3{
+  
+    height: 20px;
+    width: 600px;
+    margin-left: 100px;
+    margin-top: -40px; 
+}
+.box4{
+ 
+    height: 20px;
+    width: 800pxpx;
+    margin-left: 100px;
+    margin-top: -40px; 
+}
+.box5{
+    
+    height: 20px;
+    width: 800px;
+    margin-left: 100px;
+    margin-top: -40px; 
+}
+.iosabout2{
+    height: 500px;
+    width: 700px;
+    color: white;
+    font-size: 40px;
+    margin-top: -420px;
+    margin-left: 800px;
+}
+.mobileapp{
+    height: 250px;
+    width: 500px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.mobilehead{
+    height: 200px;
+    width: 500px;
+}
+.mobileimg{
+    height: 250px;
+    width: 190px;
+    margin-top: -220px;
+    background-image: url('mobileimg.png');
+    background-size: cover;
+}
+.mobileimg {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeUp 1s ease-out forwards;
+  animation-delay: 0.5s;
+}
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.cross{
+    height: 250px;
+    width: 500px;
+    margin-left: 220px;
+    margin-top: -20px;
+}
+.crosshead{
+    height: 80px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.crossimg{
+    height: 250px;
+    width: 250px;
+    margin-top: -230px;
+    margin-left: -10px;
+    background-image: url('cross-platform-app-development-removebg-preview.png');
+    background-size: cover;
+}
+.crossimg {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeUp 1s ease-out forwards;
+  animation-delay: 0.5s;
+}
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+
+/* Android */
+.androidbox{
+    height: 800px;
+    width: 1540px;
+    margin-top: -100px;
+    margin-left: -10px;
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+.androidhead{
+    height: 700px;
+    width: 700px;
+    color: white;
+    font-size: 30px;
+    margin-left: 30px;
+}
+.android{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 90px;
+    height: 100px;
+    width: 550px;
+    font-size: 100px;
+}
+.development{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100px;
+    width: 550px;
+    font-size: 100px;
+}
+.service{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100px;
+    width: 550px;
+    font-size: 100px;
+}
+.androidabout{
+    height: 100px;
+    width: 700px;
+    margin-top: 30px;
+}
+.androidhead2{
+    height: 700px;
+    width: 800px;
+    color: white;
+    font-size: 30px;
+    margin-left: 700px;
+    margin-top: -705px;
+}
+.headbox2{
+    height: 200px;
+    width: 300px;
+    background-image: url('glowingarrow-removebg-preview.png');
+    background-size: cover;
+    padding-top: 60px;
+    margin-left: -30px;
+    margin-top: 10px;
+}
+.headdis{
+     padding: 20px;
+    height: 300px;
+    width: 750px;
+    margin-top: -460px;
+    margin-left: 730px;
+    color: white;
+    font-size: 25px;
+    border-radius: 15px;
+}
+
+
+/* Contact */
+.contactbox{
+    height: 700px;
+    width: 1540px;
+    margin-top: -100px;
+    margin-left: -10px;
+    padding-top: 50px;
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+.contactfrom{
+    margin-top: 50px;
+    height: 600px;
+    width: 500px;
+    margin-left: 30px;
+}
+.getintouch{
+    height: 100px;
+    width: 450px;
+    margin-top: 20px;
+    margin-left: 24px;
+    font-size: 80px;
+    color: white;
+}
+.getintouchdis{
+    height: 60px;
+    width: 450px;
+    margin-top: -10px;
+    font-size: 20px;
+    margin-left: 24px;
+    color: white;
+}
+.firstname{
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    height: 30px;
+    width: 150px;
+     margin-left: 24px;
+     margin-top: 40px;
+}
+.secondname{
+    margin-top: 20px;
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+     margin-left: 260px;
+     margin-top: -55px;
+     color: white;
+}
+.email{
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    height: 30px;
+    width: 150px;
+     margin-left: 24px;
+}
+.cvideo{
+    height: 700px;
+    width: 800px;
+    margin-left: 600px;
+    margin-top: -700px;
+}
+.mailimg{
+    border: 2px solid red;
+    height: 70px;
+    width: 70px;
+     margin-left: 600px;
+     margin-top: -600px;
+     margin-left: 700px;
+     border-radius: 60px;
+      background-image: url('mailicon.jpg');
+     background-size: cover;
+}
+.emailid{
+    height: 50px;
+    width: 200px;
+     margin-top: -65px;
+     margin-left: 800px;
+}
+.phoneimg{
+    height: 70px;
+    width: 80px;
+     margin-left: 1100px;
+     border-radius: 60px;
+     margin-top: -68px;
+      background-image: url('phonewhite.jpg');
+     background-size: cover;
+}
+.phonenumber{
+    height: 50px;
+    width: 200px;
+     margin-top: -50px;
+     margin-left: 1210px;
+}
+
+
+
+
+
+/* phonesize */
+
+
+@media(max-width:550px){
+  .container{
+    height: 700px;
+    width: 550px;
+    margin-top: -5px;
+    margin-left: -10px;
+    background-image: url('background.jpg');
+    background-size: cover;
+}.topborder{
+    height: 100px;
+    width: 500px;
+    padding-left: 50px;
+    padding-top: 16px;
+     background-image: url('Acesofttext.png');
+    background-size: cover;
+}
+.acelogo{
+    height: 90px;
+    width: 90px;
+    background-image: url('acesoftlog-removebg.png');
+    background-size: cover;
+    margin-top:110px;
+    margin-left: 150px;
+}
+.Home{
+    display: none;
+    height: 50px;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 300px;
+    margin-left: 40px;
+}
+.iosapp{
+    height: 50px;
+    width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: -5px;
+    color: white;
+}
+.Android{
+    height: 50px;
+    width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: -5px;
+}
+.Contact{
+    height: 30px;
+    width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 2px;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: -5px;
+}
+.canada{
+     height: 180px;
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    padding-top: 2px;
+    font-size: 20px;
+    margin-top: 5px;
+    background-image: url('group-removebg-preview.png');
+    background-size: cover;
+}
+.cnumber{
+    display: none;
+     height: 30px;
+    width: 140px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1080px;
+    padding-top: 7px;
+    font-size: 18px;
+    margin-top: -30px;
+}
+.uae{
+    display: none;
+     height: 30px;
+    width: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1260px;
+    padding-top: 2px;
+    font-size: 20px;
+    margin-top: -38px;
+    background-image: url('uaelogo..png');
+    background-size: cover;
+}
+.text {
+    display: none;
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeUp 1s ease-out forwards;
+  animation-delay: 0.5s;
+}
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.unumber{
+    display: none;
+     height: 50px;
+    width: 360px;
+    padding-top: 2px;
+    font-size: 20px;
+    margin-top: -610px;
+    margin-left: 160px;
+}
+.secondsection{
+    height: 600px;
+    width: 550px;
+    display: flex;
+}
+
+
+/* digital */
+
+
+.text{
+    padding-top: 100px;
+    padding-left: 80px;
+    height: 500px;
+    width: 1000px;
+    color: rgb(186, 40, 40);
+    font-size: 100px;
+}
+.img{
+    margin-top: 50px;
+    height: 200px;
+    width: 200px;
+    background-image: url('software-developmentimg-rem.png');
+    background-size: cover;
+}
+.iosbox{
+     border: 2px solid black;
+    height: 700px;
+    width: 550px;
+    margin-top: -5px;
+    margin-left: -10px;
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+
+/* HOME */
+
+
+
+/* ABOUT */
+.ioshead{
+    height: 100px;
+    width: 300px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: -100px;
+    padding-top: 16px;
+    margin-left: 80px;
+    padding-bottom: -50px;
+    font-size: 27px;
+
+}
+.iosabout{
+    height: 500px;
+    width: 600px;
+    color: white;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: -90px;
+}
+.storie{
+    
+}
+.tickbox1{
+    
+    height: 20px;
+    width: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-image: url('tick-remo.png');
+    background-size: cover;
+}
+.tickbox2{
+   
+    height: 20px;
+    width: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+     background-image: url('tick-remo.png');
+    background-size: cover;
+}
+.tickbox3{
+  
+    height: 20px;
+    width: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+     background-image: url('tick-remo.png');
+    background-size: cover;
+}
+.tickbox4{
+    
+    height: 20px;
+    width: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+     background-image: url('tick-remo.png');
+    background-size: cover;
+}
+.tickbox5{
+  
+    height: 20px;
+    width: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+     background-image: url('tick-remo.png');
+    background-size: cover;
+}
+.box1{
+   
+    height: 20px;
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 30px; 
+    
+}
+.box2{
+   
+    height: 20px;
+    width: 570px;
+    margin-left: 100px;
+    margin-top: -40px; 
+}
+.box3{
+  
+    height: 20px;
+    width: 600px;
+    margin-left: 100px;
+    margin-top: -40px; 
+}
+.box4{
+ 
+    height: 20px;
+    width: 800pxpx;
+    margin-left: 100px;
+    margin-top: -40px; 
+}
+.box5{
+    height: 20px;
+    width: 800px;
+    margin-left: 100px;
+    margin-top: -40px; 
+}
+.mobileimg {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeUp 1s ease-out forwards;
+  animation-delay: 0.5s;
+}
+.iosabout2{
+    height: 200px;
+    width: 200px;
+    color: white;    
+    font-size: 40px;
+    margin-top: 20px;
+    background-image: url('cross-platform-app-development-removebg-preview.png');
+    background-size: cover;
+    margin-left: 220px;
+}
+.mobileapp{
+    display: none;
+    height: 250px;
+    width: 500px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.mobilehead{
+    display: none;
+    height: 200px;
+    width: 500px;
+}
+.mobileimg{
+    display: none;
+    height: 250px;
+    width: 190px;
+    margin-top: -220px;
+    background-image: url('mobileimg.png');
+    background-size: cover;
+}
+.mobileimg {
+    display: none;
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeUp 1s ease-out forwards;
+  animation-delay: 0.5s;
+}
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.cross{
+    display: none;
+    height: 250px;
+    width: 500px;
+    margin-left: 220px;
+    margin-top: -20px;
+}
+.crosshead{
+    display: none;
+    height: 80px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.crossimg{
+    display: none;
+    height: 250px;
+    width: 250px;
+    margin-top: -230px;
+    margin-left: -10px;
+    background-image: url('cross-platform-app-development-removebg-preview.png');
+    background-size: cover;
+}
+.crossimg {
+    display: none;
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeUp 1s ease-out forwards;
+  animation-delay: 0.5s;
+}
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+
+/* Android */
+.androidbox{
+    height: 920px;
+    width: 550px;
+    margin-top: -100px;
+    margin-left: -10px;
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+.androidhead{
+    height: 700px;
+    width: 700px;
+    color: white;
+    font-size: 30px;
+    margin-left: 30px;
+}
+.android{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 90px;
+    height: 100px;
+    width: 550px;
+    font-size: 70px;
+}
+.development{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100px;
+    width: 550px;
+    font-size: 70px;
+    margin-top: -40px;
+}
+.service{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100px;
+    width: 550px;
+    font-size: 70px;
+    margin-top: -30px;
+}
+.androidabout{
+    height: 100px;
+    width: 450px;
+    margin-top: -10px;
+    font-size: 20px;
+}
+.androidhead2{
+    border: 2px solid ;
+    height: 700px;
+    width: 450px;
+    color: white;
+    font-size: 17px;
+    margin-top: -700px;
+    margin-left: -500px;
+}
+.headbox2{
+    height: 200px;
+    width: 300px;
+    background-image: url('glowingarrow-removebg-preview.png');
+    background-size: cover;
+    padding-top: 60px;
+    margin-left: 550px;
+    margin-top: 578px;
+}
+.headdis{
+     padding: 20px;
+    height: 300px;
+    width: 450px;
+    margin-top: -390px;
+    margin-left: 10px;
+    color: white;
+    font-size: 17px;
+    border-radius: 15px;
+}
+
+
+/* Contact */
+.contactbox{
+    height: 700px;
+    width: 550px;
+    margin-top: -100px;
+    margin-left: -10px;
+    padding-top: 50px;
+    background-image: url('background.jpg');
+    background-size: cover;
+}
+.contactfrom{
+    margin-top: 50px;
+    height: 600px;
+    width: 500px;
+    margin-left: 30px;
+}
+.getintouch{
+    height: 100px;
+    width: 480px;
+    margin-top: 20px;
+    margin-left: 24px;
+    font-size: 80px;
+    color: white;
+}
+.getintouchdis{
+    display: none;
+    height: 60px;
+    width: 450px;
+    margin-top: -10px;
+    font-size: 20px;
+    margin-left: 24px;
+    color: white;
+}
+.firstname{
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    height: 30px;
+    width: 150px;
+     margin-left: 24px;
+     margin-top: 40px;
+}
+.secondname{
+    margin-top: 20px;
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+     margin-left: 260px;
+     margin-top: -55px;
+     color: white;
+}
+.email{
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    height: 30px;
+    width: 150px;
+     margin-left: 24px;
+}
+.cvideo{
+    display: none;
+    height: 700px;
+    width: 800px;
+    margin-left: 600px;
+    margin-top: -700px;
+}
+.mailimg{
+    display: none;
+    border: 2px solid red;
+    height: 70px;
+    width: 70px;
+     margin-left: 600px;
+     margin-top: -600px;
+     margin-left: 700px;
+     border-radius: 60px;
+      background-image: url('mailicon.jpg');
+     background-size: cover;
+}
+.emailid{
+    display: none;
+    height: 50px;
+    width: 200px;
+     margin-top: -65px;
+     margin-left: 800px;
+}
+.phoneimg{
+    display: none;
+    height: 70px;
+    width: 80px;
+     margin-left: 1100px;
+     border-radius: 60px;
+     margin-top: -68px;
+      background-image: url('phonewhite.jpg');
+     background-size: cover;
+}
+.phonenumber{
+    display: none;
+    height: 50px;
+    width: 200px;
+     margin-top: -50px;
+     margin-left: 1210px;
+}
+
+
+
+   
+
+
+}
